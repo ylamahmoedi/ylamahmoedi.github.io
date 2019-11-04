@@ -188,9 +188,11 @@ h6  { font-size: 13px;}
     float: left;
 }
 .menu-sekunder-one {
-    width: 40%;
+    width: 50%;
 }
-.menu-sekunder-two,
+.menu-sekunder-two {
+    width: 20%;
+}
 .menu-sekunder-three {
     width: 30%;
 }
